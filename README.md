@@ -166,7 +166,7 @@ In the body of your email again include:
 
 >Url to this specific Google document
 
-Update your Careers Prep Tracker sheet with the date submitted.
+Update your Careers Prep Tracker sheet.
 
  
 
