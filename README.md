@@ -147,9 +147,27 @@ The more time and effort you put into your research the more you will appear as 
 
 After all, if you aren’t showing a company that you’re willing to go all out to prepare and capture their attention and interest for a job interview, there is no reason for them to think that you’d do this as an employee.
 
-## Assignment 
+## Assignment- Interview Research 
 
-Write a blog post about your previous people and company research practices. What was missing? How did this impact your interview success? Make a list of your research priorities going forward and keep it handy to ensure you put it into action.
+Create a Google doc. Title it ""Your Name" + Interview Research."
+
+Write about your previous people and company research practices. What was missing? How did this impact your interview success? Make a list of your research priorities going forward and keep it handy to ensure you put it into action.
+
+**Submit** your assignment to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+
+In this case, your email subject line will be “”Your Name” + Interview Research.”
+
+In the body of your email again include:
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url to this specific Google document
+
+Update your Careers Prep Tracker sheet with the date submitted.
+
  
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-research-for-an-interview'>Careers Research for an Interview</a> on Learn.co and start learning to code for free.</p>
