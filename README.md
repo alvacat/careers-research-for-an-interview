@@ -8,7 +8,7 @@ At a minimum, prepare to spend 1-2 hours doing research on the people/company an
 
 ## Why Interview Research is Important
 
-While your resume may get your foot in the door, know that you’ll be expected to answer really specific questions about the company and the role and why you would add value. As you’re doing research you going to go into the interview more confident because you’ll feel more prepared and informed about the conversation ahead of you.  
+While your resume may get your foot in the door, know that you’ll be expected to answer really specific questions about the company and the role and why you would add value. As you’re doing research you're going to go into the interview more confident because you’ll feel more prepared and informed about the conversation ahead of you.  
 
 When you do research on a company it’ll help you answer questions that might come up for you, like “Is this company a fit for me?”
 
@@ -171,3 +171,5 @@ Update your Careers Prep Tracker sheet.
  
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-research-for-an-interview'>Careers Research for an Interview</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-research-for-an-interview'>Research Before an Interview</a> on Learn.co and start learning to code for free.</p>
