@@ -153,7 +153,7 @@ Create a Google doc. Title it ""Your Name" + Interview Research."
 
 Write about your previous people and company research practices. What was missing? How did this impact your interview success? Make a list of your research priorities going forward and keep it handy to ensure you put it into action.
 
-**Submit** your assignment to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
 
 In this case, your email subject line will be “”Your Name” + Interview Research.”
 
