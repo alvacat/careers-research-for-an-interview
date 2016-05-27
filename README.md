@@ -147,29 +147,8 @@ The more time and effort you put into your research the more you will appear as 
 
 After all, if you aren’t showing a company that you’re willing to go all out to prepare and capture their attention and interest for a job interview, there is no reason for them to think that you’d do this as an employee.
 
-## Assignment- Interview Research 
+## Assignment
 
-Create a Google doc. Title it ""Your Name" + Interview Research."
-
-Write about your previous people and company research practices. What was missing? How did this impact your interview success? Make a list of your research priorities going forward and keep it handy to ensure you put it into action.
-
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
-
-In this case, your email subject line will be “”Your Name” + Interview Research.”
-
-In the body of your email again include:
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url to this specific Google document
-
-Update your Careers Prep Tracker sheet.
-
- 
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-research-for-an-interview'>Careers Research for an Interview</a> on Learn.co and start learning to code for free.</p>
+There is nothing specific to submit for this lesson. However, take time to think about about your previous people and company research practices before interviews you've had in the past. What was missing? How did this impact your interview success? This will likely come up with your coach during your meetings with him/her. If there are certain areas of preparation before interviews that you want help on, talk to your coach.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-research-for-an-interview'>Research Before an Interview</a> on Learn.co and start learning to code for free.</p>
