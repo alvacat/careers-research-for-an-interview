@@ -149,6 +149,6 @@ After all, if you aren’t showing a company that you’re willing to go all out
 
 ## Assignment
 
-There is nothing specific to submit for this lesson. However, take time to think about about your previous people and company research practices before interviews you've had in the past. What was missing? How did this impact your interview success? This will likely come up with your coach during your meetings with him/her. If there are certain areas of preparation before interviews that you want help on, talk to your coach.
+There is nothing specific to submit for this lesson. However, take time to think about about your previous people and company research practices before interviews you've had in the past. What was missing? How did this impact your interview success? This will likely come up with your coach during your meetings with him/her. If you have a premium account and if there are certain areas of preparation before interviews that you want help on, talk to your coach.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-research-for-an-interview'>Research Before an Interview</a> on Learn.co and start learning to code for free.</p>
