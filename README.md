@@ -16,7 +16,7 @@ In the following sections, we'll cover the three main categories of interview re
 
 ## Job Research 
 
-The day before your interview, re-read EVERY LINE of the job description you were sent (if applicable). The higher up in the job description something is listed, the more important it probably is in the day-to-day work of the job.
+The day before your interview, re-read *[EVERY LINE]* of the job description you were sent (if applicable). The higher up in the job description something is listed, the more important it probably is in the day-to-day work of the job.
 
 You will probably be asked questions related to the bullet points on a job description. These bullet points will likely cover very specific responsibilities of the role in addition to qualities/skills they’re looking for in a candidate. 
 
@@ -24,7 +24,7 @@ If bullets mention work with APIs, scraping, or working with large teams, be pre
 
 If bullets mention “you like sharing knowledge and are comfortable working in ambiguity” make sure you have specific examples that demonstrate this.
 
-If the jobs says it requires 5 years of Ruby experience (and you don’t have that) does that mean you’re not qualified? No. Not at all. 
+If the jobs says it requires 2 years of Ruby experience (and you don’t have that) does that mean you’re not qualified? No. Not at all. Your goal is to highlight what value you CAN contribute, and why you are qualified for the role.
 
 Remember that job descriptions are a *wishlist* for employers and are a guide for you to get a sense of what a company is looking for in an ideal candidate and the range of expectations the company has for the person taking on this role.
 
@@ -32,11 +32,11 @@ If you’re not sent a job description (or there isn’t one posted for the role
 
 ## People Research 
 
-If you have more than one interviewer, research all of them.  Researching your interviewer enables you to learn who they are as a person first and also aim to develop a rapport/connection with them as soon as you walk in the door.
+If you have more than one interviewer, research all of them.  Researching your interviewer enables you to learn who they are as a person first, and also aim to develop a rapport/connection with them as soon as you walk in the door/enter the interview.
 
 Keep an eye out for the following:
 
-- Similar backgrounds (hometown/state, alma mater, degree, previous employers)
+- Similar backgrounds (hometown/state, alma mater, degree, previous employers or industry)
 - Technologies they build with
 - Mutual connections
 
@@ -44,7 +44,7 @@ The more you know about your interviewer, the less nervous you will likely feel,
 
 Keep in mind that anything you may reference in an interview that comes as a result of your research should be professional (not that you like the same bar they liked on Facebook).
 
-### Google your interviewer
+### Google Your Interviewer
 
 Type your interviewer’s name in quotes [“FirstName LastName”] to get the best matched results. View not just the first page of hits, but the first five. This is being thorough.
 
@@ -55,29 +55,29 @@ Here are the things you should be looking for:
 - Twitter profile
 - Articles they’ve published
 - Recordings of talks they gave at conferences
-- Other places they are present on the internet
+- Other places they are present/active on the internet
 
 Have they built apps similar to yours, worked on similar initiatives, used similar technologies? 
 
-This helps you get a sense of what is important to your interviewer and ways you can make conversation with him/her and what you can highlight in your answer. 
+This helps you get a sense of what is important to your interviewer, ways you can make conversation with him/her, and what you can highlight in your answer. 
 
 For example, and if appropriate, it’s  okay to reference a few posts of theirs that you‘ve read, in interviews and in your follow up/thank you notes.
 
-**Finding and watching online videos of your interviewer is especially valuable,** as they give you a much more real, ‘high definition’ experience of them and their personality than by just reading a blog post. Take advantage of this to tailor your communication style with them.
+**Finding and watching online videos of your interviewer is especially valuable,** as they give you a much more real, ‘high definition’ experience of them and their personality than by just reading a blog post. Take advantage of this to tailor your communication style with them. See if they have a YouTube channel!
 
-### Look up your interviewer on LinkedIn 
+### Look Up Your Interviewer on LinkedIn 
 
 Don’t think that “stalking” your interviewer on LinkedIn is a bad thing.  “Stalking” your interviewer on LinkedIn is a must! Use LinkedIn to research items such as their alma mater, their previous employer, noteworthy projects they’ve worked on, technologies they use in their role, etc.
 
 Having this knowledge and articulating it is actually flattering, and shows that you are serious and did your research.
 
-### Look up your interviewer’s colleagues on LinkedIn
+### Look Up Your Interviewer’s Colleagues on LinkedIn
 
 Researching your interviewer’s colleagues gives you a sense of the size of the team, who your new colleagues might be, the team structure, what each member does in their role, and what technologies they’re building with.
 
 Additionally, if you’ve read the profiles of 10 of your interviewers colleagues, and you happen to be asked to meet “a few other people in the office” after your initial interview you’ll feel more comfortable because you’ve done your research!
 
-### Look for trends
+### Look for Trends
 
 Once you have looked up your interviewer and their colleagues, look for trends among them. Trends can help you gain a better sense of the sort of environment you’re going into. For example: Do most of the devs on the team have Computer Science degrees? If so, you should most definitely be ready to answer some algorithm or logic problems.
 
@@ -89,11 +89,11 @@ Today, employers expect you to have scoured the internet for information about t
 
 If you haven’t done thorough company research, then you’re not prepared, and that is a strike against you.
 
-### Know the names of the CEO and CTO
+### Know the Names of the CEO and CTO
 
 This is common sense basic information that out of respect you should be aware of. Smart interviewers might ask you this, helping them weed out insincere or lazy candidates. If you’re not asked and there is no reason for you to bring it up in an interview, then don’t mention it. 
 
-### Research the company across the internet 
+### Research the Company Across the Internet 
 
 Look up the company thoroughly across the internet to get a big-picture view of them. The stuff to look out for is below:
 
@@ -102,7 +102,7 @@ Look up the company thoroughly across the internet to get a big-picture view of 
 - Core product / what the company does
 - Their company culture
 - Corporate priorities
-- Current company news
+- Current company news / press releases
 - Technologies they are using/building
 - Who their competitors are
 - Do they allow employee contribution to open-source projects
@@ -114,30 +114,30 @@ Having this information only helps you better tailor your message/communications
 - Company blog
 - Facebook Page
 - Company Tweets
+- Company YouTube channel
 - Relevant industry new blogs/websites (like [techcrunch.com](http://techcrunch.com/), etc.)
 - On [builtwith.com](http://builtwith.com/) (to see what technologies they use)
 - [Angel List](https://angel.co/)
 
-
-### Research the company on LinkedIn
+### Research the Company on LinkedIn
 
 View the company’s LinkedIn Company Page, follow them to get relevant company updates in your daily news feed, and as mentioned above, research their employees themselves to get a sense of their organizational structure and size, as well as the general education and skills they value and seek in candidates.
  
-### Talk to current or previous employees 
+### Talk to Current or Previous Employees 
 
 Reaching out to a current or former employee of a company is a super savvy practice that most candidates bypass completely. There is no better place to get a true inside look at an organization than by people who are working there/have worked there.
  
-This is not the time to reach out to strangers who work at the company. If you reach out to someone you don’t know at a company and ask for advice on how to approach their interview process, they’re likely to alert a hiring manager and that could jeopardize your candidacy. The only appropriate way to do this is to reach out to someone you know who currently works at or who previously worked at the company, tell them you’ve secured an interview at their current/previous company and ask if they have a few minutes to chat about their experiences working there and if they have any advice for how to approach the interview process. What you’re mainly going to glean from these kinds of conversations is a better sense of the company culture and how you can tailor your message appropriately. 
+This is not the time to reach out to strangers who work at the company. If you reach out to someone you don’t know at a company and ask for advice on how to approach their interview process, they’re likely to alert a hiring manager and that could jeopardize your candidacy. The only appropriate way to do this is to reach out to someone you know who currently works at or who previously worked at the company, tell them you’ve secured an interview at their current/previous company and ask if they have a few minutes to chat about their experiences working there and if they have any advice for how to approach the interview process. What you’re mainly going to glean from these kinds of conversations is a better sense of the company culture and how you can tailor your message appropriately. [Glassdoor](https://www.glassdoor.com/index.htm) is one of several websites where you’ll find current and/or former employees of specific companies reviewing their experiences working there (culture, management structure, etc.).
 
-### Start-ups and small companies
+### Start-ups and Small Companies
 
 At start-ups and small companies, cultivating a very specific type of company culture is often one of their biggest priorities, with the soft skills of employees being just as valued as (if not more than) their actual technical skills.
 
 In turn, make sure you are doing adequate research on such elements for these types of companies, so you can best ‘speak their language’, ask strong questions (we address this in a future lesson), and market yourself accordingly.
 
-### Formulating interview questions
+### Formulating Interview Questions
 
-Keep in mind when you’re researching that questions will pop up in your mind. In a future lesson we will talk about the types of questions to ask in the interview and how to formulate them, based on the research you’ve done ahead of time.
+Keep in mind when you’re researching that questions will pop up in your mind; write these down, so you can remember them and ask them at the interview! In a future lesson we will talk about the types of questions to ask in the interview and how to formulate them, based on the research you’ve done ahead of time.
 
 ## Conclusion 
 
@@ -149,6 +149,4 @@ After all, if you aren’t showing a company that you’re willing to go all out
 
 ## Next Steps
 
-Take time to think about your previous people and company research practices before interviews you've had in the past. What was missing? How did this impact your interview success? This will likely come up with your coach during your meetings with him/her. If there are certain areas of preparation before interviews that you want help on, talk to your coach.
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-research-for-an-interview'>Research Before an Interview</a> on Learn.co and start learning to code for free.</p>
+Take time to think about your previous people and company research practices before interviews you've had in the past. What was missing? How did this impact your interview success? This will likely come up in meetings with your Career Coach. If there are certain areas of preparation before interviews that you want help on, talk to your Coach.
