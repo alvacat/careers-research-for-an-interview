@@ -20,11 +20,11 @@ The day before your interview, re-read *[EVERY LINE]* of the job description you
 
 You will probably be asked questions related to the bullet points on a job description. These bullet points will likely cover very specific responsibilities of the role in addition to qualities/skills they’re looking for in a candidate. 
 
-If bullets mention work with APIs, scraping, or working with large teams, be prepared to talk about that stuff. 
+If bullets mention work with a specific skill set or technology, or working with large teams, be prepared to talk about that stuff. 
 
 If bullets mention “you like sharing knowledge and are comfortable working in ambiguity” make sure you have specific examples that demonstrate this.
 
-If the jobs says it requires 2 years of Ruby experience (and you don’t have that) does that mean you’re not qualified? No. Not at all. Your goal is to highlight what value you CAN contribute, and why you are qualified for the role.
+If the jobs says it requires 1-2 years of experience in your field (and you don’t have that) does that mean you’re not qualified? No. Not at all. Your goal is to highlight what value you CAN contribute, and why you are qualified for the role.
 
 Remember that job descriptions are a *wishlist* for employers and are a guide for you to get a sense of what a company is looking for in an ideal candidate and the range of expectations the company has for the person taking on this role.
 
@@ -79,7 +79,7 @@ Additionally, if you’ve read the profiles of 10 of your interviewers colleague
 
 ### Look for Trends
 
-Once you have looked up your interviewer and their colleagues, look for trends among them. Trends can help you gain a better sense of the sort of environment you’re going into. For example: Do most of the devs on the team have Computer Science degrees? If so, you should most definitely be ready to answer some algorithm or logic problems.
+Once you have looked up your interviewer and their colleagues, look for trends among them. Trends can help you gain a better sense of the sort of environment you’re going into. For example: do most of the team members in the group have a specific type of degree (Computer Science, Design, HCI, Statistics, etc.)? If so, you should most definitely be ready to answer questions or problems specific to that field of study.
 
 (Sidenote: Knowing where their colleagues previously worked also gives you ideas of other companies that might interest you that you should research as well for potential pursuit.)
 
@@ -115,7 +115,7 @@ Having this information only helps you better tailor your message/communications
 - Facebook Page
 - Company Tweets
 - Company YouTube channel
-- Relevant industry new blogs/websites (like [techcrunch.com](http://techcrunch.com/), etc.)
+- Relevant industry blogs/websites (like [techcrunch.com](http://techcrunch.com/), [fastcompany.com](https://www.fastcompany.com/), etc.)
 - On [builtwith.com](http://builtwith.com/) (to see what technologies they use)
 - [Angel List](https://angel.co/)
 
